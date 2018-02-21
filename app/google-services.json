@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "573841134970",
+    "firebase_url": "https://authentication-24160.firebaseio.com",
+    "project_id": "authentication-24160",
+    "storage_bucket": "authentication-24160.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573841134970:android:b022170bf321646c",
+        "android_client_info": {
+          "package_name": "com.sutd.leesei.authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573841134970-fipge5b8sjuticblbjaqcg3nc7unu3n7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPL_17Y_igLbX08Vz6XiwmVHdyDCRDY74"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573841134970:android:dc1713108eae8b35",
+        "android_client_info": {
+          "package_name": "com.example.tessa.kyc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573841134970-fipge5b8sjuticblbjaqcg3nc7unu3n7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPL_17Y_igLbX08Vz6XiwmVHdyDCRDY74"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573841134970:android:d5bb9f3011a0e744",
+        "android_client_info": {
+          "package_name": "com.sutd.leesei.imagedownloadapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573841134970-fipge5b8sjuticblbjaqcg3nc7unu3n7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPL_17Y_igLbX08Vz6XiwmVHdyDCRDY74"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573841134970:android:731653fc97221204",
+        "android_client_info": {
+          "package_name": "com.sutd.leesei.imagedownload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573841134970-fipge5b8sjuticblbjaqcg3nc7unu3n7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPL_17Y_igLbX08Vz6XiwmVHdyDCRDY74"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
